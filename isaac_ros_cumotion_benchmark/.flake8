@@ -1,7 +1,3 @@
-[develop]
-script_dir=$base/lib/isaac_ros_cumotion_benchmark
-[install]
-install_scripts=$base/lib/isaac_ros_cumotion_benchmark
 [flake8]
 max-line-length = 99
 extend-ignore =
